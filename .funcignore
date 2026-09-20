@@ -1,0 +1,9 @@
+.venv
+.venv/
+.python_packages/
+__pycache__/
+.git/
+.vscode/
+*.bin
+*.pt
+!models/fake_reviews/model.safetensors
